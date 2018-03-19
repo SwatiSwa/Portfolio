@@ -1,4 +1,4 @@
-$.getJSON('../attachments/data.json',function(data){
+$.getJSON('https://swatiswa.github.io/Portfolio/attachments/data.json',function(data){
         var carouselExampleIndicators = document.getElementById('carouselExampleIndicators');
         var imagesHtml = "";
         var slideIndicatorHtml = "";
